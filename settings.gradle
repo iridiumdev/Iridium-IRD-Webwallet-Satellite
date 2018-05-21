@@ -1,4 +1,0 @@
-rootProject.name = 'webwallet-satellite'
-
-include ':satellite' 
-include ':api'

@@ -1,8 +1,0 @@
-scmVersion {
-    tag {
-        prefix = 'v'
-        versionSeparator = ''
-    }
-}
-
-project.version = scmVersion.version
